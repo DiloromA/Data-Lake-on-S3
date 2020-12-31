@@ -56,5 +56,4 @@ songplay_id, start_time, user_id, level, song_id, artist_id, session_id, locatio
 
 #### Load it back to S3
 
-Writes them to partitioned parquet files in table directories on S3.# Data-Lake-on-S3
-
+Writes them to partitioned parquet files in table directories on S3.
